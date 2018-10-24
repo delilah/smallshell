@@ -1,2 +1,2 @@
 # smallshell
-smallshell project
+smallshell project (archive)
