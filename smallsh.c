@@ -114,7 +114,7 @@ RECHECK:
 		{
 		case EOL:
 		case COMMENT:
-			return EOL; /* il commento == EOL perch� si ignora fino a EOL */
+			return EOL;
 		case AMPERSAND:
 			return AMPERSAND;
 		case SEMICOLON:
